@@ -1,4 +1,4 @@
-✈️ TravelPlan AI
+# ✈️ TravelPlan AI
 
 > An intelligent, all-in-one travel planner powered by Machine Learning and Google Gemini AI — helping you plan trips, discover destinations, manage budgets, and navigate transport in real time.
 
